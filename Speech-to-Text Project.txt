@@ -1,0 +1,6 @@
+<==Speech-to-Text Project.py==>
+make sure your HeadPhone/Mic/Line In will connected. 
+As you open (py) project (in IDLE, Pycharm). 
+just complie and give a voice note or speech something. 
+it will record and save in {'output.txt'} in writing format. 
+  
